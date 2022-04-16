@@ -1,28 +1,27 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Neeraj Rajeev Shetkar</h1>
+<h3 align="center">My name is Neeraj Rajeev Shetkar and I am undergraduate student pursuing Bachelor of Science in Programming and Data Scinece from Indian Institute of Technology, Madras.</h3>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-OCI-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Google%20CLoud%20Platform-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ineerajrajeev&label=Profile%20views&color=0e75b6&style=flat" alt="ineerajrajeev" /> </p>
 
-My name is Neeraj Rajeev Shetkar and I am undergraduate student pursuing Bachelor of Science in Programming and Data Scinece from Indian Institute of Technology, Madras.
+<p align="left"> <a href="https://twitter.com/ineerajrajeev" target="blank"><img src="https://img.shields.io/twitter/follow/ineerajrajeev?logo=twitter&style=for-the-badge" alt="ineerajrajeev" /></a> </p>
 
-<!-- Actual text -->
+- 🌱 I’m currently learning **Machine Learning in Healthcare**
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- 📫 How to reach me **neerajshetkar@gmail.com**
 
-<!-- Icons -->
+- 📄 Know about my experiences [https://bit.ly/ineerajrajeev](https://bit.ly/ineerajrajeev)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+<a href="https://fb.com/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+<a href="https://instagram.com/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ineerajrajeev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ineerajrajeev" height="30" width="40" /></a>
+</p>
 
-<!-- Links to your social media accounts -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[1]: https://twitter.com/ineerajrajeev
-[2]: https://www.linkedin.com/in/ineerajrajeev
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ineerajrajeev&show_icons=true&locale=en&layout=compact" alt="ineerajrajeev" /></p>
